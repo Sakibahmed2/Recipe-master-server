@@ -1,0 +1,265 @@
+[
+    {
+        "id": 1,
+        "chef_name": "John Doe",
+        "age": 35,
+        "specialty": "Italian Cuisine",
+        "years_of_experience": 10,
+        "recipes": [
+            {
+                "recipe_name": "Spaghetti Carbonara",
+                "ingredients": [
+                    "Spaghetti",
+                    "Pancetta",
+                    "Eggs",
+                    "Parmesan Cheese",
+                    "Black Pepper"
+                ],
+                "recipe_img": "https://images.unsplash.com/photo-1604068549290-dea0e4a305ca?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGl0YWxpYW4lMjBmb29kfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+            },
+            {
+                "recipe_name": "Margherita Pizza",
+                "ingredients": [
+                    "Pizza Dough",
+                    "Tomato Sauce",
+                    "Fresh Mozzarella Cheese",
+                    "Fresh Basil Leaves"
+                ],
+                "recipe_img": "https://plus.unsplash.com/premium_photo-1667540791706-a123bf631f0b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTl8fGl0YWxpYW4lMjBmb29kfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+            },
+            {
+                "recipe_name": "Chicken Alfredo",
+                "ingredients": [
+                    "Fettuccine",
+                    "Chicken Breast",
+                    "Heavy Cream",
+                    "Parmesan Cheese",
+                    "Garlic"
+                ],
+                "recipe_img": "https://images.unsplash.com/photo-1597131628347-c769fc631754?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzV8fGl0YWxpYW4lMjBmb29kfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+            },
+            {
+                "narecipe_nameme": "Beef Lasagna",
+                "ingredients": [
+                    "Lasagna Noodles",
+                    "Ground Beef",
+                    "Tomato Sauce",
+                    "Ricotta Cheese",
+                    "Mozzarella Cheese"
+                ],
+                "recipe_img": "https://images.unsplash.com/photo-1563379926898-05f4575a45d8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NTR8fGl0YWxpYW4lMjBmb29kfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+            }
+        ],
+        "chef_picture": "https://t4.ftcdn.net/jpg/00/73/83/05/240_F_73830529_98yKkhmiUGLXOCWTFHEZVhYelLGyV8pU.jpg"
+    },
+    {
+        "id": 2,
+        "chef_name": "Giovanni Rossi",
+        "age": 40,
+        "specialty": "Italian Cuisine",
+        "years_of_experience": 15,
+        "recipes": [
+            {
+                "recipe_name": "Penne Arrabbiata",
+                "ingredients": [
+                    "Penne Pasta",
+                    "Tomatoes",
+                    "Garlic",
+                    "Chili Pepper",
+                    "Parmesan Cheese"
+                ],
+                "recipe_img": "https://images.unsplash.com/photo-1604068549290-dea0e4a305ca?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGl0YWxpYW4lMjBmb29kfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+            },
+            {
+                "recipe_name": "Margherita Pizza",
+                "ingredients": [
+                    "Pizza Dough",
+                    "Tomato Sauce",
+                    "Fresh Mozzarella Cheese",
+                    "Fresh Basil Leaves"
+                ],
+                "recipe_img": "https://plus.unsplash.com/premium_photo-1667540791706-a123bf631f0b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTl8fGl0YWxpYW4lMjBmb29kfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+            },
+            {
+                "recipe_name": "Lasagna",
+                "ingredients": [
+                    "Lasagna Noodles",
+                    "Ground Beef",
+                    "Tomato Sauce",
+                    "Ricotta Cheese",
+                    "Mozzarella Cheese"
+                ],
+                "recipe_img": "https://images.unsplash.com/photo-1597131628347-c769fc631754?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzV8fGl0YWxpYW4lMjBmb29kfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+            }
+        ],
+        "chef_picture": "https://t3.ftcdn.net/jpg/00/95/47/82/240_F_95478277_ALUOxFgSAqCqHDKG11fgDtI1E5p3RwSR.jpg"
+    },
+    {
+        "id": 2,
+        "chef_name": "Giovanni Rossi",
+        "age": 40,
+        "specialty": "Italian Cuisine",
+        "years_of_experience": 15,
+        "recipes": [
+            {
+                "recipe_name": "Penne Arrabbiata",
+                "ingredients": [
+                    "Penne Pasta",
+                    "Tomatoes",
+                    "Garlic",
+                    "Chili Pepper",
+                    "Parmesan Cheese"
+                ],
+                "recipe_img": "https://images.unsplash.com/photo-1604068549290-dea0e4a305ca?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGl0YWxpYW4lMjBmb29kfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+            },
+            {
+                "recipe_name": "Margherita Pizza",
+                "ingredients": [
+                    "Pizza Dough",
+                    "Tomato Sauce",
+                    "Fresh Mozzarella Cheese",
+                    "Fresh Basil Leaves"
+                ],
+                "recipe_img": "https://plus.unsplash.com/premium_photo-1667540791706-a123bf631f0b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTl8fGl0YWxpYW4lMjBmb29kfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+            },
+            {
+                "recipe_name": "Lasagna",
+                "ingredients": [
+                    "Lasagna Noodles",
+                    "Ground Beef",
+                    "Tomato Sauce",
+                    "Ricotta Cheese",
+                    "Mozzarella Cheese"
+                ],
+                "recipe_img": "https://images.unsplash.com/photo-1597131628347-c769fc631754?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzV8fGl0YWxpYW4lMjBmb29kfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+            }
+        ],
+        "chef_picture": "https://t4.ftcdn.net/jpg/00/41/56/95/240_F_41569505_DlGRxXLgivvQGCNsUaOIlJz3PQxD0So3.jpg"
+    },
+    {
+        "id": 2,
+        "chef_name": "Giovanni Rossi",
+        "age": 40,
+        "specialty": "Italian Cuisine",
+        "years_of_experience": 15,
+        "recipes": [
+            {
+                "recipe_name": "Penne Arrabbiata",
+                "ingredients": [
+                    "Penne Pasta",
+                    "Tomatoes",
+                    "Garlic",
+                    "Chili Pepper",
+                    "Parmesan Cheese"
+                ],
+                "recipe_img": "https://images.unsplash.com/photo-1604068549290-dea0e4a305ca?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGl0YWxpYW4lMjBmb29kfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+            },
+            {
+                "recipe_name": "Margherita Pizza",
+                "ingredients": [
+                    "Pizza Dough",
+                    "Tomato Sauce",
+                    "Fresh Mozzarella Cheese",
+                    "Fresh Basil Leaves"
+                ],
+                "recipe_img": "https://plus.unsplash.com/premium_photo-1667540791706-a123bf631f0b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTl8fGl0YWxpYW4lMjBmb29kfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+            },
+            {
+                "recipe_name": "Lasagna",
+                "ingredients": [
+                    "Lasagna Noodles",
+                    "Ground Beef",
+                    "Tomato Sauce",
+                    "Ricotta Cheese",
+                    "Mozzarella Cheese"
+                ],
+                "recipe_img": "https://images.unsplash.com/photo-1597131628347-c769fc631754?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzV8fGl0YWxpYW4lMjBmb29kfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+            }
+        ],
+        "chef_picture": "https://t4.ftcdn.net/jpg/02/94/36/75/240_F_294367527_ZIRoDXAuwhNTQpz6WtLOcvEt86gkKJ1k.jpg"
+    },
+    {
+        "id": 2,
+        "chef_name": "Giovanni Rossi",
+        "age": 40,
+        "specialty": "Italian Cuisine",
+        "years_of_experience": 15,
+        "recipes": [
+            {
+                "recipe_name": "Penne Arrabbiata",
+                "ingredients": [
+                    "Penne Pasta",
+                    "Tomatoes",
+                    "Garlic",
+                    "Chili Pepper",
+                    "Parmesan Cheese"
+                ],
+                "recipe_img": "https://images.unsplash.com/photo-1604068549290-dea0e4a305ca?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGl0YWxpYW4lMjBmb29kfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+            },
+            {
+                "recipe_name": "Margherita Pizza",
+                "ingredients": [
+                    "Pizza Dough",
+                    "Tomato Sauce",
+                    "Fresh Mozzarella Cheese",
+                    "Fresh Basil Leaves"
+                ],
+                "recipe_img": "https://plus.unsplash.com/premium_photo-1667540791706-a123bf631f0b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTl8fGl0YWxpYW4lMjBmb29kfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+            },
+            {
+                "recipe_name": "Lasagna",
+                "ingredients": [
+                    "Lasagna Noodles",
+                    "Ground Beef",
+                    "Tomato Sauce",
+                    "Ricotta Cheese",
+                    "Mozzarella Cheese"
+                ],
+                "recipe_img": "https://images.unsplash.com/photo-1597131628347-c769fc631754?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzV8fGl0YWxpYW4lMjBmb29kfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+            }
+        ],
+        "chef_picture": "https://t4.ftcdn.net/jpg/01/06/20/55/240_F_106205515_3K06ArnAHhPXe2ZJzNg6mpjlD4Ocliqe.jpg"
+    },
+    {
+        "id": 2,
+        "chef_name": "Giovanni Rossi",
+        "age": 40,
+        "specialty": "Italian Cuisine",
+        "years_of_experience": 15,
+        "recipes": [
+            {
+                "recipe_name": "Penne Arrabbiata",
+                "ingredients": [
+                    "Penne Pasta",
+                    "Tomatoes",
+                    "Garlic",
+                    "Chili Pepper",
+                    "Parmesan Cheese"
+                ],
+                "recipe_img": "https://images.unsplash.com/photo-1604068549290-dea0e4a305ca?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGl0YWxpYW4lMjBmb29kfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+            },
+            {
+                "recipe_name": "Margherita Pizza",
+                "ingredients": [
+                    "Pizza Dough",
+                    "Tomato Sauce",
+                    "Fresh Mozzarella Cheese",
+                    "Fresh Basil Leaves"
+                ],
+                "recipe_img": "https://plus.unsplash.com/premium_photo-1667540791706-a123bf631f0b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTl8fGl0YWxpYW4lMjBmb29kfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+            },
+            {
+                "recipe_name": "Lasagna",
+                "ingredients": [
+                    "Lasagna Noodles",
+                    "Ground Beef",
+                    "Tomato Sauce",
+                    "Ricotta Cheese",
+                    "Mozzarella Cheese"
+                ],
+                "recipe_img": "https://images.unsplash.com/photo-1597131628347-c769fc631754?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzV8fGl0YWxpYW4lMjBmb29kfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+            }
+        ],
+        "chef_picture": "https://t3.ftcdn.net/jpg/00/61/36/52/240_F_61365265_StTsq88C9QL8SRRDE2E9SXT6ikXLSTll.jpg"
+    }
+]
