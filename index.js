@@ -16,6 +16,12 @@ app.get('/chef', (req, res) => {
     res.send(chefRecipe)
 })
 
+app.get('/chef/:id', (req, res) =>{
+    const id = parseInt(req.params.id);
+    const selectedId = chefRecipe.find(chef => chef.id === id);
+    res.send(selectedId)
+})
+
 app.listen(port, () => {
     console.log(`dragon API is running ${port}`);
 })

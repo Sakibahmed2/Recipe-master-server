@@ -5,6 +5,7 @@
         "age": 35,
         "specialty": "Italian Cuisine",
         "years_of_experience": 10,
+        "likes": 140,
         "recipes": [
             {
                 "recipe_name": "Spaghetti Carbonara",
@@ -58,6 +59,7 @@
         "age": 40,
         "specialty": "Italian Cuisine",
         "years_of_experience": 15,
+        "likes": 320,
         "recipes": [
             {
                 "recipe_name": "Penne Arrabbiata",
@@ -95,11 +97,12 @@
         "chef_picture": "https://t3.ftcdn.net/jpg/00/95/47/82/240_F_95478277_ALUOxFgSAqCqHDKG11fgDtI1E5p3RwSR.jpg"
     },
     {
-        "id": 2,
+        "id": 3,
         "chef_name": "Giovanni Rossi",
         "age": 40,
         "specialty": "Italian Cuisine",
         "years_of_experience": 15,
+        "likes": 180,
         "recipes": [
             {
                 "recipe_name": "Penne Arrabbiata",
@@ -137,11 +140,12 @@
         "chef_picture": "https://t4.ftcdn.net/jpg/00/41/56/95/240_F_41569505_DlGRxXLgivvQGCNsUaOIlJz3PQxD0So3.jpg"
     },
     {
-        "id": 2,
+        "id": 4,
         "chef_name": "Giovanni Rossi",
         "age": 40,
         "specialty": "Italian Cuisine",
         "years_of_experience": 15,
+        "like": 279,
         "recipes": [
             {
                 "recipe_name": "Penne Arrabbiata",
@@ -179,11 +183,12 @@
         "chef_picture": "https://t4.ftcdn.net/jpg/02/94/36/75/240_F_294367527_ZIRoDXAuwhNTQpz6WtLOcvEt86gkKJ1k.jpg"
     },
     {
-        "id": 2,
+        "id": 5,
         "chef_name": "Giovanni Rossi",
         "age": 40,
         "specialty": "Italian Cuisine",
         "years_of_experience": 15,
+        "like": 479,
         "recipes": [
             {
                 "recipe_name": "Penne Arrabbiata",
@@ -221,11 +226,12 @@
         "chef_picture": "https://t4.ftcdn.net/jpg/01/06/20/55/240_F_106205515_3K06ArnAHhPXe2ZJzNg6mpjlD4Ocliqe.jpg"
     },
     {
-        "id": 2,
+        "id": 6,
         "chef_name": "Giovanni Rossi",
         "age": 40,
         "specialty": "Italian Cuisine",
         "years_of_experience": 15,
+        "like": 79,
         "recipes": [
             {
                 "recipe_name": "Penne Arrabbiata",
