@@ -6,9 +6,11 @@
         "specialty": "Italian Cuisine",
         "years_of_experience": 10,
         "likes": 140,
+        "description": "Creative Culinary Artist: A cook chef is a creative culinary artist who uses their knowledge, skills, and creativity to prepare delicious meals that tantalize the taste buds. They are passionate about food and are constantly experimenting with new recipes and ingredients to create innovative dishes.",
         "recipes": [
             {
                 "recipe_name": "Spaghetti Carbonara",
+                "recipe_id": 1,
                 "ingredients": [
                     "Spaghetti",
                     "Pancetta",
@@ -20,6 +22,7 @@
             },
             {
                 "recipe_name": "Margherita Pizza",
+                "recipe_id": 2,
                 "ingredients": [
                     "Pizza Dough",
                     "Tomato Sauce",
@@ -30,6 +33,7 @@
             },
             {
                 "recipe_name": "Chicken Alfredo",
+                "recipe_id": 3,
                 "ingredients": [
                     "Fettuccine",
                     "Chicken Breast",
@@ -41,6 +45,7 @@
             },
             {
                 "narecipe_nameme": "Beef Lasagna",
+                "recipe_id": 4,
                 "ingredients": [
                     "Lasagna Noodles",
                     "Ground Beef",
@@ -60,9 +65,11 @@
         "specialty": "Italian Cuisine",
         "years_of_experience": 15,
         "likes": 320,
+        "description": "Master of the Kitchen: A cook chef is a master of the kitchen, with a deep understanding of cooking techniques, equipment, and ingredients. They are skilled at managing a kitchen team and orchestrating the cooking process to ensure that every dish is prepared to perfection.",
         "recipes": [
             {
                 "recipe_name": "Penne Arrabbiata",
+                "recipe_id": 1,
                 "ingredients": [
                     "Penne Pasta",
                     "Tomatoes",
@@ -74,6 +81,7 @@
             },
             {
                 "recipe_name": "Margherita Pizza",
+                "recipe_id": 2,
                 "ingredients": [
                     "Pizza Dough",
                     "Tomato Sauce",
@@ -84,6 +92,7 @@
             },
             {
                 "recipe_name": "Lasagna",
+                "recipe_id": 3,
                 "ingredients": [
                     "Lasagna Noodles",
                     "Ground Beef",
@@ -103,9 +112,11 @@
         "specialty": "Italian Cuisine",
         "years_of_experience": 15,
         "likes": 180,
+        "description": "Detail-Oriented Perfectionist: A cook chef is a detail-oriented perfectionist who pays close attention to every aspect of the cooking process, from the selection of ingredients to the presentation of the final dish. They are committed to excellence in every dish they prepare.",
         "recipes": [
             {
                 "recipe_name": "Penne Arrabbiata",
+                "recipe_id": 1,
                 "ingredients": [
                     "Penne Pasta",
                     "Tomatoes",
@@ -117,6 +128,7 @@
             },
             {
                 "recipe_name": "Margherita Pizza",
+                "recipe_id": 2,
                 "ingredients": [
                     "Pizza Dough",
                     "Tomato Sauce",
@@ -127,6 +139,7 @@
             },
             {
                 "recipe_name": "Lasagna",
+                "recipe_id": 3,
                 "ingredients": [
                     "Lasagna Noodles",
                     "Ground Beef",
@@ -146,9 +159,11 @@
         "specialty": "Italian Cuisine",
         "years_of_experience": 15,
         "like": 279,
+        "description": "Customer-Service Oriented: A cook chef is also customer-service oriented and strives to provide a positive dining experience for their customers. They are skilled at communicating with customers to understand their preferences and dietary restrictions, and they are adept at making recommendations and providing personalized service.",
         "recipes": [
             {
                 "recipe_name": "Penne Arrabbiata",
+                "recipe_id": 1,
                 "ingredients": [
                     "Penne Pasta",
                     "Tomatoes",
@@ -160,6 +175,7 @@
             },
             {
                 "recipe_name": "Margherita Pizza",
+                "recipe_id": 2,
                 "ingredients": [
                     "Pizza Dough",
                     "Tomato Sauce",
@@ -170,6 +186,7 @@
             },
             {
                 "recipe_name": "Lasagna",
+                "recipe_id": 3,
                 "ingredients": [
                     "Lasagna Noodles",
                     "Ground Beef",
@@ -189,9 +206,11 @@
         "specialty": "Italian Cuisine",
         "years_of_experience": 15,
         "like": 479,
+        "description": "Expert in Food Safety and Sanitation: A cook chef is an expert in food safety and sanitation, with a thorough understanding of the risks associated with foodborne illnesses. They follow strict protocols to ensure that the kitchen is clean and free from contamination, and they are vigilant about monitoring the temperature and storage of food to prevent spoilage.",
         "recipes": [
             {
                 "recipe_name": "Penne Arrabbiata",
+                "recipe_id": 1,
                 "ingredients": [
                     "Penne Pasta",
                     "Tomatoes",
@@ -203,6 +222,7 @@
             },
             {
                 "recipe_name": "Margherita Pizza",
+                "recipe_id": 2,
                 "ingredients": [
                     "Pizza Dough",
                     "Tomato Sauce",
@@ -213,6 +233,7 @@
             },
             {
                 "recipe_name": "Lasagna",
+                "recipe_id": 3,
                 "ingredients": [
                     "Lasagna Noodles",
                     "Ground Beef",
@@ -232,9 +253,11 @@
         "specialty": "Italian Cuisine",
         "years_of_experience": 15,
         "like": 79,
+        "description": "Team Leader and Mentor: A cook chef is also a team leader and mentor, responsible for training and supervising kitchen staff. They provide guidance, feedback, and support to their team members, fostering a positive and collaborative work environment that promotes excellence in every aspect of the kitchen.",
         "recipes": [
             {
                 "recipe_name": "Penne Arrabbiata",
+                "recipe_id": 1,
                 "ingredients": [
                     "Penne Pasta",
                     "Tomatoes",
@@ -246,6 +269,7 @@
             },
             {
                 "recipe_name": "Margherita Pizza",
+                "recipe_id": 2,
                 "ingredients": [
                     "Pizza Dough",
                     "Tomato Sauce",
@@ -256,6 +280,7 @@
             },
             {
                 "recipe_name": "Lasagna",
+                "recipe_id": 3,
                 "ingredients": [
                     "Lasagna Noodles",
                     "Ground Beef",
