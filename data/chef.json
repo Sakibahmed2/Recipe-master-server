@@ -44,7 +44,7 @@
                 "recipe_img": "https://images.unsplash.com/photo-1597131628347-c769fc631754?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzV8fGl0YWxpYW4lMjBmb29kfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
             },
             {
-                "narecipe_nameme": "Beef Lasagna",
+                "recipe_name": "Beef Lasagna",
                 "recipe_id": 4,
                 "ingredients": [
                     "Lasagna Noodles",
@@ -107,10 +107,10 @@
     },
     {
         "id": 3,
-        "chef_name": "Giovanni Rossi",
+        "chef_name": "Emiliano mark",
         "age": 40,
         "specialty": "Italian Cuisine",
-        "years_of_experience": 15,
+        "years_of_experience": 17,
         "likes": 180,
         "description": "Detail-Oriented Perfectionist: A cook chef is a detail-oriented perfectionist who pays close attention to every aspect of the cooking process, from the selection of ingredients to the presentation of the final dish. They are committed to excellence in every dish they prepare.",
         "recipes": [
@@ -154,11 +154,11 @@
     },
     {
         "id": 4,
-        "chef_name": "Giovanni Rossi",
+        "chef_name": "Dante Rossi",
         "age": 40,
         "specialty": "Italian Cuisine",
-        "years_of_experience": 15,
-        "like": 279,
+        "years_of_experience": 9,
+        "likes": 279,
         "description": "Customer-Service Oriented: A cook chef is also customer-service oriented and strives to provide a positive dining experience for their customers. They are skilled at communicating with customers to understand their preferences and dietary restrictions, and they are adept at making recommendations and providing personalized service.",
         "recipes": [
             {
@@ -201,11 +201,11 @@
     },
     {
         "id": 5,
-        "chef_name": "Giovanni Rossi",
+        "chef_name": "Rocco seta",
         "age": 40,
         "specialty": "Italian Cuisine",
-        "years_of_experience": 15,
-        "like": 479,
+        "years_of_experience": 13,
+        "likes": 479,
         "description": "Expert in Food Safety and Sanitation: A cook chef is an expert in food safety and sanitation, with a thorough understanding of the risks associated with foodborne illnesses. They follow strict protocols to ensure that the kitchen is clean and free from contamination, and they are vigilant about monitoring the temperature and storage of food to prevent spoilage.",
         "recipes": [
             {
@@ -248,11 +248,11 @@
     },
     {
         "id": 6,
-        "chef_name": "Giovanni Rossi",
+        "chef_name": "Santino hale",
         "age": 40,
         "specialty": "Italian Cuisine",
-        "years_of_experience": 15,
-        "like": 79,
+        "years_of_experience": 7,
+        "likes": 79,
         "description": "Team Leader and Mentor: A cook chef is also a team leader and mentor, responsible for training and supervising kitchen staff. They provide guidance, feedback, and support to their team members, fostering a positive and collaborative work environment that promotes excellence in every aspect of the kitchen.",
         "recipes": [
             {
